@@ -10,6 +10,7 @@ This repository contains a project focused on predicting **Cardiovascular Diseas
 Cardiovascular disease is one of the leading causes of mortality worldwide. This project aims to develop a predictive model using historical patient data to classify whether an individual is likely to have CVD.
 
 ### **📊 Dataset**
+Source: https://www.kaggle.com/code/desalegngeb/heart-disease-predictions/notebook
 The dataset used includes patient health metrics such as:
 - Age, gender, cholesterol levels, blood pressure, etc.
 - Lifestyle factors like smoking, alcohol intake, and physical activity.
