@@ -45,10 +45,5 @@ The dataset used includes patient health metrics such as:
 - **Random Forest and XGBoost** provided the best predictive accuracy.
 - Model performance metrics: **Accuracy, Precision, Recall, and F1-score** were used for evaluation.
 
-## 👨‍💻 Contributors
-- Your Name
-
-## 📜 License
-This project is for educational purposes only. Not for medical or clinical use.
 
 ---
